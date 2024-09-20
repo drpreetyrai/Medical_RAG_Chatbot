@@ -1,11 +1,11 @@
 langchain 
 langchain-community
 sentence-transformers
-faiss-gpu
+faiss-cpu
 pypdf
 langchain-groq
 python-dotenv
 flask
-langchain==0.0.225
+langchain
 -e .
 

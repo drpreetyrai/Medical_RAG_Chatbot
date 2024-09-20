@@ -6,7 +6,7 @@ convert it into text chunks
 
 
 
-conda create -n mragchatbot python=3.10 -y 
+conda create -n mragchatbot python=3.8.19 -y 
 
 faiss - 3.8.19 
 
