@@ -1,0 +1,14 @@
+pdf files medical books 
+
+extract data / extract 
+
+convert it into text chunks 
+
+
+
+conda create -n mragchatbot python=3.10 -y 
+
+faiss - 3.8.19 
+
+3.8.19
+
