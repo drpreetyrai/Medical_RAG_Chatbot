@@ -3,4 +3,7 @@
 
 # End-to-end-Medical-Chatbot-using-Llama2 
 
-## Step ot ru
+To run this chatbot use:
+
+python app.py 
+
